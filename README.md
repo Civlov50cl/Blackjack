@@ -21,6 +21,6 @@ Systeme de mise :
 
 Lancer le jeu :
 
-python3 -m venv .venv
-source .venv/bin/activate
-python blackjack.py
+- python3 -m venv .venv
+- source .venv/bin/activate
+- python blackjack.py
