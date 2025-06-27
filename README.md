@@ -12,11 +12,11 @@ Règles :
 
 Systeme de mise :
 
--Solde initial : 1000
--Tu choisis ta mise en debut de partie
--Gain : tu gagne le double de ta mise
--Perte : tu perds ta mise
--Egalite : tu recupères ta mise
+- Solde initial : 1000
+- Tu choisis ta mise en debut de partie
+- Gain : tu gagne le double de ta mise
+- Perte : tu perds ta mise
+- Egalite : tu recupères ta mise
 
 
 Lancer le jeu :
